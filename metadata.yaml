@@ -22,6 +22,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/39124
     - http://en.wikipedia.org/wiki/Herbert_Strang
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43234#Bright-Ideas--A-Record-of-Invention-and-Misinvention
 gutenberg_issued: '2013-07-16'
 gutenberg_type: Text
 identifiers:
